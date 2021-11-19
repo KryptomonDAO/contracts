@@ -8,7 +8,7 @@
   "rinkeby": {
     "KMONToken": "0x20317089818D87df0DE077F02df226bCB4611640",
     "KMONFT": "0xfa4c64e28d8fd61518e23d6c17d92dfdcf34267d",
-    "MarketplaceProxy": "0x3103046cEd8B3e25c4E812C5Bb6BDF3b2147972D",
+    "MarketplaceProxy": "0xB2c6573872200d67a8fE9Aeb149c5201Ef73Fbdd",
     "ERC721Bid": "0xaa122dcc62d195c508a63408908a0e5408aeb8de"
   }
 }
