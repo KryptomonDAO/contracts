@@ -1,9 +1,11 @@
 {
-  "mainnet": {
-    "KMONToken": "",
-    "KMONFT": "",
-    "MarketplaceProxy": "",
-    "ERC721Bid": ""
+  "bsc": {
+    "KMONToken": "0xc732b6586a93b6b7cf5fed3470808bc74998224d",
+    "KMONFT": "0xc33d69a337b796a9f0f7588169cd874c3987bde9",
+    "MarketplaceProxy": "0x61BB68bcA6eB9DCb434A52fBCB999a353c283aFF",
+    "ERC721Bid": "0x51EeD96088ED0f6F63C1073d55092bF95a5227fc",
+    "Lootbox": "0xbf2E98268c8A90eE943c6Ef8E7340F0052F26b0d",
+    "WBNB": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
   },
   "rinkeby": {
     "KMONToken": "0x20317089818D87df0DE077F02df226bCB4611640",
