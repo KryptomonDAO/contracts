@@ -22,6 +22,7 @@
     "StakingRewards": "0xb83c69de750d61721ddbf04ba6792e653352047b"
   },
   "chapel": {
+    "KMONFT": "0xe65baf422bb854f71056e6ff3b74e819d77b859f",
     "KMONFTV2": "0x8e4aa5d11b719f8e067025eee97470f1b0f369d4",
     "KMONToken": "0xa67375293613b4E081855E605504ba54be6Af139",
     "MarketplaceProxy": "0x9bc6d13fdbf796bb19434acf4715fe3396174b77",
