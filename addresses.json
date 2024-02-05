@@ -1,4 +1,15 @@
 {
+  "eth": {
+    "KMONToken": "0x1b8790018AacECF364F4d4BB65B17C5a8B140274",
+    "KMONFT": "",
+    "KMONFTV2": "",
+    "MarketplaceProxy": "",
+    "ERC721Bid": "",
+    "Lootbox": "",
+    "WBNB": "",
+    "BUSD": "",
+    "StakingRewards": ""
+  },
   "bsc": {
     "KMONToken": "0xc732b6586a93b6b7cf5fed3470808bc74998224d",
     "KMONFT": "0xc33d69a337b796a9f0f7588169cd874c3987bde9",
