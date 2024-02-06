@@ -1,14 +1,9 @@
 {
   "eth": {
-    "KMONToken": "0xc4170fd71eced3c80badca77f4e12e8aac1e3436",
-    "KMONFT": "",
-    "KMONFTV2": "",
-    "MarketplaceProxy": "",
-    "ERC721Bid": "",
-    "Lootbox": "",
-    "WBNB": "",
-    "BUSD": "",
-    "StakingRewards": ""
+    "KMONToken": "0xc4170fd71eced3c80badca77f4e12e8aac1e3436"
+  },
+  "sepolia": {
+    "KMONToken": "0xaa13799e2552af270bfc41f85f866b02c7b4d708"
   },
   "bsc": {
     "KMONToken": "0xc732b6586a93b6b7cf5fed3470808bc74998224d",
