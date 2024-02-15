@@ -2,6 +2,19 @@
   "eth": {
     "KMONToken": "0xc4170fd71eced3c80badca77f4e12e8aac1e3436"
   },
+  "polygon": {
+    "KMONToken": "0x43636e633D037Bd1c87Ae93419076A885cE5b714",
+    "KMONFTV2": "",
+    "NFTItems": "",
+    "CCIPReceiver": "",
+    "MarketplaceProxy": "",
+    "ERC721Bid": "0xc4170fd71ECed3C80baDca77f4e12E8AaC1e3436",
+    "Lootbox": "0x5BF2D128de1C31D57587627771B58f0c630187e4",
+    "WETH": "",
+    "BUSD": "",
+    "StakingRewards": "",
+    "Lottery": ""
+  }
   "sepolia": {
     "KMONToken": "0xaa13799e2552af270bfc41f85f866b02c7b4d708",
     "CCIPReceiver": "0xdcfFcE14Fc528313424C5dD6D0160b51EDD24156"
