@@ -1,7 +1,7 @@
 {
   "eth": {
     "KMONToken": "0xc4170fd71eced3c80badca77f4e12e8aac1e3436",
-    "CCIPREceiver": "0xcE9a4C51749447ec48a2FE9d73B00E6FbF3aF708",
+    "CCIPReceiver": "0xcE9a4C51749447ec48a2FE9d73B00E6FbF3aF708"
   },
   "polygon": {
     "KMONToken": "0x43636e633D037Bd1c87Ae93419076A885cE5b714",
@@ -15,7 +15,7 @@
     "BUSD": "",
     "StakingRewards": "",
     "Lottery": ""
-  }
+  },
   "sepolia": {
     "KMONToken": "0xaa13799e2552af270bfc41f85f866b02c7b4d708",
     "CCIPReceiver": "0xdcfFcE14Fc528313424C5dD6D0160b51EDD24156"
