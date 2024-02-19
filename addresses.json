@@ -18,7 +18,7 @@
   },
   "sepolia": {
     "KMONToken": "0xaa13799e2552af270bfc41f85f866b02c7b4d708",
-    "CCIPReceiver": "0x78ca555c5397719BDFF2ce2f329764ED824e9847"
+    "CCIPReceiver": "0xcE9a4C51749447ec48a2FE9d73B00E6FbF3aF708"
   },
   "bsc": {
     "CCIPSender": "0xE4dFDAa9f1854ACD96D3bf3D3729e844E1fE25e6",
