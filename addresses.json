@@ -69,5 +69,18 @@
     "Lottery": "0x60095C8775a4d1B1e41A92A73Bc7194dC564c347",
     "BNFT": "0x8bF6404c80863E8bDc176099594Bf949c44c26E4",
     "CCIPSender": "0xD2DF37F9fce5De0E38d3677F3A1b5Ba29a4c53bF"
+  },
+  "amoy": {
+    "KMONToken": "0x323b623912F89AC23e3d4bb73AB3F276022E57D4",
+    "KMONFTV2": "",
+    "NFTItems": "",
+    "CCIPReceiver": "",
+    "MarketplaceProxy": "",
+    "ERC721Bid": "",
+    "Lootbox": "",
+    "WETH": "",
+    "BUSD": "",
+    "StakingRewards": "",
+    "Lottery": ""
   }
 }
