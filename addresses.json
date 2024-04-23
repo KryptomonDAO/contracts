@@ -72,8 +72,8 @@
   },
   "amoy": {
     "KMONToken": "0x323b623912F89AC23e3d4bb73AB3F276022E57D4",
-    "KMONFTV2": "",
-    "NFTItems": "",
+    "KMONFTV2": "0x75e4377028C1b63F3A8f69808c712Cae3ff04790",
+    "NFTItems": "0x0D812770cc9453C8C4E5D4Bdc861831bd60A8931",
     "CCIPReceiver": "",
     "MarketplaceProxy": "",
     "ERC721Bid": "",
