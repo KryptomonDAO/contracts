@@ -84,5 +84,35 @@
     "StakingRewards": "",
     "Lottery": "",
     "EASaleKMON":"0x82FB986d15618B2C8f5cd6c65c5c200a14B97BAa"
+  },
+  "abstrac_testnet":{
+    "KMONFT": "",
+    "KMONToken": "0xFa9c5E99B34B5b3b8f8f6C135FE8d501262E6cDE",
+    "KMONFTV2": "0xBAd101A5395c37fF2d0CEBF996381ea5A04E89Da",
+    "NFTItems": "0xCd3DaA724eafBC56b56C48E643d3C48c0B93A9a4",
+    "CCIPReceiver": "",
+    "MarketplaceProxy": "0x6d9508C0F16aD9538dA04B3367F7944535Df4C5C",
+    "ERC721Bid": "0x7D8f7A3C6AA6Fd6C44Ae4dE48Ef3eB483CEAF66b",
+    "Lootbox": "0xa535A4df259D91F9c915dc3A77A7922e4B6A69D2",
+    "WETH": "",
+    "BUSD": "",
+    "StakingRewards": "",
+    "Lottery": "",
+    "EASaleKMON":"0x82FB986d15618B2C8f5cd6c65c5c200a14B97BAa"
+  },
+  "minato":{
+    "KMONFT": "",
+    "KMONToken": "0x74C8a3f6Ea253462bB0c8Ddc6f7E861B5df66541",
+    "KMONFTV2": "0x1EAF150639Bd8A2f31d6401bf0d78e425742C3Ce",
+    "NFTItems": "XXXXXXXX",
+    "CCIPReceiver": "",
+    "MarketplaceProxy": "XXXXXXXX",
+    "ERC721Bid": "XXXXXXXX",
+    "Lootbox": "XXXXXXXX",
+    "WETH": "",
+    "BUSD": "",
+    "StakingRewards": "",
+    "Lottery": "",
+    "EASaleKMON":""
   }
 }
