@@ -114,5 +114,20 @@
     "StakingRewards": "",
     "Lottery": "",
     "EASaleKMON":""
+  }, 
+  "arbitrum_testnet":{
+    "KMONFT": "",
+    "KMONToken": "0x74C8a3f6Ea253462bB0c8Ddc6f7E861B5df66541",
+    "KMONFTV2": "0x1EAF150639Bd8A2f31d6401bf0d78e425742C3Ce",
+    "NFTItems": "0xFbA2a64F0F175FDe2CCD93B263BA5993B38CFa42",
+    "CCIPReceiver": "",
+    "MarketplaceProxy": "XXXXXXXX",
+    "ERC721Bid": "XXXXXXXX",
+    "Lootbox": "XXXXXXXX",
+    "WETH": "",
+    "BUSD": "",
+    "StakingRewards": "",
+    "Lottery": "",
+    "EASaleKMON":""
   }
 }
